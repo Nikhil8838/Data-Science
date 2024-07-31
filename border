@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .Nikhil{
+            border: 30px solid red;
+            border-right: 30px solid green;
+            border-left: 30px solid yellow;
+            border-bottom: 30px solid blue ;
+            height: 120px;
+            width:180px
+        }
+        
+    </style>
+</head>
+<body>
+    <center>
+        <h1 class="Nikhil">DSA<br>Hello<br>data science</h1>
+    </center>
+    </body>
+</html>
